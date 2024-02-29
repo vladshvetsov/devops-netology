@@ -9,3 +9,7 @@ devops-netology пункт 8 -> изменение в файл readme
 будут игнорироваться файлы которые содержат .tfstate.
 будут игнорироваться файлы crash.log override.tf override.tf.json terraform.rc .terraformrc
 файлы с любыми символами между точек crash.*.log
+
+=================
+
+Новая строка 02-git-02-base
