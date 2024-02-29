@@ -13,3 +13,6 @@ devops-netology пункт 8 -> изменение в файл readme
 =================
 
 Новая строка 02-git-02-base
+
+=====
+VCS commit1
